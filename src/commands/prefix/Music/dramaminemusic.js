@@ -5,7 +5,7 @@ const axios = require('axios');
 const def = require('../../../../defines');
 
 const BANNER_GIF = 'https://cdn.discordapp.com/attachments/1503767759182631022/1509488557352550430/standard.gif?ex=6a195c45&is=6a180ac5&hm=cdda3a27d582d7e93f8eabc504500929e6647b85ce07b38409433260ad8061bb&';
-const RAPIDAPI_KEY = 'cc2966a83fmsh0e49ee70eee0479p178f9fjsn10396235c689';
+const RAPIDAPI_KEY = '52b4b1934fmsh6b38c1ca78d57cbp128e0ejsnf06dcf923add';
 
 const MUSIC_DIR  = path.join(__dirname, '../../../../data/music');
 const CACHE_FILE = path.join(__dirname, '../../../../data/music_cache.json');
