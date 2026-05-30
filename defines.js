@@ -1,6 +1,6 @@
 module.exports = {
     client: {
-        token: "MTUwOTE0MjAzMzc5OTk3NDk4Mg.GeMZwP.GZ2z-Qgf8c7_nA3_GYCJFUgweEczXacRbG03ZA", 
+        token: process.env.TOKEN,
         id: "1401900860770091068",
         guild: "1506632247342796922",
         version: "1.0",
